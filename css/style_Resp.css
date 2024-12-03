@@ -1,0 +1,2517 @@
+/* Screen Size 1420 */
+@media (max-width: 1420px) {
+  .section0 {
+    font-size: 14px;
+  }
+  .standard {
+    width: 95%;
+  }
+  .top_header_left {
+    width: 45%;
+  }
+  .main_menu_left {
+    width: 28%;
+  }
+  .main_menu_right {
+    width: 30%;
+  }
+  .top_header_left::before {
+    left: 21.5%;
+  }
+  /* Section 1 */
+  .section3_div2_one1_text {
+    font-size: 28px;
+    margin-left: 10px;
+  }
+  .section1_left h2 {
+    font-size: 44px;
+  }
+  .select {
+    bottom: 78%;
+    left: -10px;
+    position: absolute;
+    padding: 17px 35px 17px 35px;
+  }
+  /* 
+   */
+  .section2 h2 {
+    font-size: 48px;
+  }
+  .section2_div1_para {
+    font-size: 16px;
+    width: 65%;
+  }
+  .section3_div1 {
+    width: 70%;
+  }
+  .section3_div1 h2 {
+    font-family: "SofiaPro";
+    font-size: 60px;
+  }
+  .section5_right h2 {
+    font-size: 60px;
+  }
+  .label p {
+    margin: 0;
+  }
+  .section9_div2 h2 {
+    width: 35%;
+  }
+  .section7_right h2 {
+    font-size: 55px;
+  }
+  .section10_right_div1 h3 {
+    padding: 15px 110px 60px;
+  }
+  /* composite page */
+  .section9_div2_text h2 {
+    width: 40%;
+  }
+  .section9_div2_composite h4 {
+    font-size: 21px;
+  }
+  /* Emergnecy page */
+  .section1_left_composite h3 {
+    font-size: 24px;
+  }
+  .emergnecy_before p {
+    margin: 23px 34px 83px 0;
+  }
+  .section1_left_composite h4 {
+    font-size: 20px;
+  }
+  .section1s_compositeP p {
+    font-size: 20px;
+  }
+  .section2_right_composite h2 {
+    font-size: 48px;
+  }
+  .section5_right h2 {
+    font-size: 43px;
+  }
+  .s2_emergency_div1 p {
+    font-size: 22px;
+  }
+  .section4_left h2 {
+    font-size: 48px;
+  }
+  .section7_right h2 {
+    font-size: 48px;
+  }
+  .footer_menu > li {
+    text-align: center;
+    padding: 0 1rem;
+  }
+  /* Invisalign Page Code */
+  .section2_div1_invisalign p {
+    margin: 28px auto;
+  }
+  .section3_invisalign {
+    height: 100vh;
+  }
+  .section7_right h2 {
+    font-size: 42px;
+  }
+  .section3_emergency {
+    margin: 40px 42px 83px 50px;
+  }
+
+  /* Veneers PAge Code */
+  .section1_composite {
+    width: 90%;
+    position: relative;
+    margin: 22px 42px 30px 30px;
+  }
+  /* Teeth Whitening PAge COde */
+  .section1_left_composite h2 {
+    margin: 10px 0px 21px 0px;
+    font-family: "SofiaPro";
+    font-size: 47px;
+  }
+
+  .my_slide3 h2 {
+    font-family: "SofiaPro";
+    font-size: 48px;
+  }
+  .swiper-slide_content p {
+    margin: 9px 52px 20px 5.5px;
+    font-size: 14px;
+  }
+  .swiper-slide .my_slide3 img {
+    display: block;
+    width: 50%;
+  }
+  /* Children  */
+  .section2_div1_children h2 {
+    font-size: 52px;
+  }
+}
+/* Screen Size 1080 */
+@media (max-width: 1280px) {
+  .section0 {
+    width: 18%;
+    font-size: 14px;
+  }
+  .standard1 {
+    padding: 15px 0;
+  }
+  .top_header_left {
+    width: 50%;
+  }
+  .top_header_left::before {
+    left: 25%;
+  }
+  .main_menu_left {
+    width: 30%;
+  }
+  .logo p {
+    font-size: 10px;
+  }
+  .main_menu_right {
+    width: 32%;
+    display: flex;
+    justify-content: flex-start;
+  }
+  .top_header_right_div2 a,
+  .top_header_right_div3 select {
+    font-size: 11px;
+  }
+  .top_header_right_div3 img,
+  .top_header_right_div2 img {
+    width: 15px;
+    height: 15px;
+  }
+  .section1_left h2 {
+    font-size: 36px;
+  }
+  .select {
+    bottom: 78%;
+    left: -10px;
+    position: absolute;
+    padding: 7px 10px 7px 10px;
+  }
+  .section1_left p {
+    width: 300px;
+  }
+  .section1_left a {
+    padding: 20px 15px;
+    font-family: "Poppins";
+    font-size: 15px;
+  }
+  .section2 h2 {
+    font-size: 40px;
+  }
+  .section2_div1_para {
+    font-size: 14px;
+    width: 65%;
+  }
+  .swiper-slide_content p {
+    margin: 9px 52px 76px 15.5px;
+    font-size: 13px;
+  }
+  .section3_div1 h2 {
+    font-family: "SofiaPro";
+    font-size: 52px;
+  }
+  .section4_left h2 {
+    font-size: 54px;
+  }
+  .my_slide2 p {
+    margin: 20px 0 30px;
+    font-family: "Poppins";
+    font-size: 14px;
+  }
+  .section5_right h2 {
+    font-size: 50px;
+  }
+
+  .section6_div1 h2 {
+    margin: 15px 10px 30px 10px;
+    font-family: "SofiaPro";
+    font-size: 42px;
+  }
+  .section7_right h2 {
+    font-size: 42px;
+    line-height: 1.2;
+  }
+  .section7_right_div1_1 p {
+    font-size: 15px;
+  }
+  .section7_right p {
+    font-size: 15px;
+  }
+  .section9_div2 h2 {
+    font-size: 42px;
+    width: 40%;
+  }
+  /* composite Page code */
+  .section9_div2_composite h4 {
+    font-size: 19px;
+  }
+  .section1_composite {
+    width: 90%;
+    position: relative;
+    margin: 22px 20px 30px 25px;
+  }
+  /* Emergency page */
+
+  .section1_left_composite h2,
+  .section5_right h2,
+  .section4_left h2,
+  .section2_right_composite h2 {
+    font-size: 42px;
+  }
+  .section1_left_composite h3,
+  .section1_left_composite h4 {
+    font-size: 20px;
+  }
+  .section1s_compositeP p {
+    font-size: 16px;
+  }
+  .s2_emergency_div1 p {
+    font-size: 18px;
+  }
+  /* Invisalign Page Code */
+
+  .section1_left_composite p {
+    font-size: 15px;
+  }
+  .section2_invisalign {
+    width: 100%;
+    height: auto;
+    margin-bottom: 90px;
+  }
+  .section1_left_composite h2,
+  .section5_right h2,
+  .section4_left h2,
+  .section2_right_composite h2,
+  .section7_right h2 {
+    font-size: 36px;
+  }
+  .section9_div2_composite h2 {
+    width: 100;
+    margin: 0 0 72px;
+    font-family: "SofiaPro";
+    font-size: 42px;
+  }
+  .section9_div2_composite h4::before {
+    content: "";
+    position: absolute;
+    top: 115px;
+  }
+  .section2_div1_invisalign p {
+    font-size: 15px;
+    margin: 28px auto;
+  }
+  /* New Patients Page Code */
+  .section1_left_composite a {
+    padding: 15px 13px;
+  }
+  .section3_emergency {
+    margin: 40px 42px 83px 50px;
+  }
+  .section1_left_composite {
+    width: 34%;
+  }
+  /* Teeth Page COde */
+  .swiper-slide_content {
+    margin: 0 10px;
+  }
+  .my_slide3 h2 {
+    font-family: "SofiaPro";
+    font-size: 42px;
+  }
+  .swiper-slide_content p {
+    margin: 9px 0px 20px 0.5px;
+    font-size: 12px;
+  }
+  .swiper-slide_content p:last-child {
+    margin: 9px 52px 20px 0.5px;
+    font-size: 12px;
+  }
+  /* Children Page Code */
+  .section2_div1_children h2 {
+    font-size: 40px;
+  }
+
+  .one {
+    width: 46%;
+    height: 320px;
+  }
+  .one h5 {
+    font-size: 22px;
+    text-align: left;
+  }
+}
+@media (max-width: 1150px) {
+  .section0 {
+    width: 17%;
+    font-size: 11px;
+  }
+  .main_menu_left {
+    width: 36%;
+  }
+  .main_menu_right {
+    width: 40%;
+    display: flex;
+    justify-content: flex-start;
+  }
+  .section1_left h4 {
+    font-size: 24px;
+  }
+
+  .top_header_left::before {
+    left: 23%;
+  }
+  .section1_left h2 {
+    font-size: 34px;
+  }
+  .section2 h2 {
+    font-size: 34px;
+  }
+  .section2_div1_para {
+    font-size: 11px;
+    width: 62%;
+  }
+  .swiper-slide_content h4 {
+    font-size: 18px;
+    line-height: 2.64;
+  }
+  .section3_div1 h4 {
+    font-size: 28px;
+  }
+  .section3_div2_one1_text {
+    font-size: 22px;
+    margin-left: 10px;
+  }
+  .section5_right h4 {
+    font-size: 22px;
+  }
+  .section5_right h4::before {
+    width: 88%;
+    top: 0;
+  }
+  .section5_right h2 {
+    font-size: 40px;
+  }
+  .section7_right h2 {
+    font-size: 40px;
+    line-height: 1.2;
+  }
+
+  .footer_menu > li {
+    text-align: center;
+    padding: 0 15px;
+  }
+  .footer_menu > li a {
+    font-size: 12px;
+  }
+  .footerBot_menu {
+    gap: 2rem;
+  }
+  /* composite code page */
+  .section9_div2_composite h2 {
+    font-size: 44px;
+  }
+  .section9_div2_composite h4 {
+    font-size: 17px;
+  }
+  .section9_div2_composite h4::before {
+    top: 125px;
+  }
+  .section9_div2 h2 {
+    font-size: 36px;
+    width: 40%;
+  }
+  .section1_left_composite a {
+    font-size: 12px;
+  }
+  /* Emergency Page */
+  .section1_left_composite h2,
+  .section5_right h2,
+  .section4_left h2,
+  .section2_right_composite h2,
+  .section7_right h2 {
+    font-size: 36px;
+  }
+  .section1_left_composite h3,
+  .section1_left_composite h4 {
+    font-size: 18px;
+  }
+  .emergnecy_before p {
+    font-size: 13px;
+    margin: 23px 25px 83px 0;
+  }
+  .section1s_compositeP p {
+    width: 65%;
+    font-size: 13px;
+  }
+  .section7_right_div1_1 p,
+  .section5_right p,
+  .s2_emergency_div1 p,
+  .section4_left p,
+  .label_1 label,
+  .label_2 label,
+  .section7_right p {
+    font-size: 14px;
+  }
+  .section2_div1_para_emergency {
+    font-size: 15px;
+  }
+  .section3_div1 h2 {
+    font-size: 42;
+  }
+  /* Invisalign Page Code */
+  .section1_left_composite p {
+    font-size: 13px;
+    margin: 20px 5px 25px 0;
+  }
+  .section2_div1_invisalign h2 {
+    font-size: 48px;
+  }
+  .section2_div1_invisalign p {
+    font-size: 13px;
+    margin: 28px auto;
+    width: 45%;
+  }
+  .section1_left_composite h2,
+  .section5_right h2,
+  .section4_left h2,
+  .section2_right_composite h2,
+  .section7_right h2 {
+    font-size: 32px;
+  }
+  .section7_right_div1_1 p,
+  .section5_right p,
+  .s2_emergency_div1 p,
+  .section4_left p,
+  .label_1 label,
+  .label_2 label,
+  .section7_right p {
+    font-size: 13px;
+  }
+  .section7_right_div1_2 ul li {
+    font-size: 13px;
+  }
+  .section9_div2_composite a,
+  .section9_div2 a,
+  .section1_left_composite a {
+    padding: 14px 16px;
+  }
+  /* Teeth Page COde */
+  .swiper-slide .my_slide3 img {
+    display: block;
+    width: 55%;
+  }
+  .my_slide3 h2 {
+    font-family: "SofiaPro";
+    font-size: 32px;
+  }
+  .swiper-slide_content p {
+    margin: 10px 0px 20px 0.5px;
+    font-size: 11px;
+  }
+  .swiper-slide_content p:last-child {
+    margin: 9px 52px 20px 0.5px;
+    font-size: 11px;
+  }
+  .my_slide3 {
+    width: 80%;
+  }
+  /* Children Page Code */
+  .section2_div1_children h2 {
+    font-size: 32px;
+  }
+
+  .one {
+    width: 46%;
+    height: 300px;
+  }
+  .one h5 {
+    font-size: 18px;
+    text-align: left;
+  }
+  /* Teams Page COde */
+  .team_details h6 {
+    font-family: "Poppins";
+    font-size: 13px;
+  }
+  .section1_left_composite p {
+    font-size: 12px;
+    margin: 19px 0px 15px;
+  }
+}
+/* Screen Size 999 */
+@media (max-width: 999px) {
+  .section0 {
+    width: 18%;
+    padding: 20px;
+    font-size: 9px;
+  }
+  .logo1 {
+    display: none;
+  }
+  .top_header_right {
+    display: none;
+  }
+  .standard {
+    padding: 20px 0 20px;
+  }
+  .top_header_left::before {
+    display: none;
+  }
+  .logo {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  /* sad */
+  .logo1 img {
+    width: 13px;
+    height: 13px;
+    margin: 0 7px;
+  }
+  .logo p {
+    font-size: 11px;
+  }
+  .main_menu_left {
+    width: 37%;
+  }
+  ul .main_menu_left li,
+  ul .main_menu_right li {
+    margin: 0;
+  }
+  ul .main_menu_left li select,
+  ul .main_menu_left li select option {
+    font-size: 14px;
+    width: 170px;
+  }
+  .btn_yellow span,
+  .btn_red span {
+    font-size: 10px;
+  }
+  .btn_red,
+  .btn_yellow {
+    width: 140px;
+  }
+  .btn_yellow li img,
+  .btn_red li img {
+    width: 15px;
+    height: 15px;
+  }
+
+  .section1_left h4 {
+    font-size: 22px;
+  }
+  /* Today 10 */
+  .section1_div1 h4::before {
+    content: "";
+    width: 85%;
+    position: absolute;
+    top: 10px;
+    left: 5%;
+    height: 20px;
+  }
+  .section3_div1 h4::before {
+    top: 0px;
+    left: 85px;
+    width: 65%;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    height: 30px;
+  }
+  .section1_left p {
+    width: 220px;
+  }
+  .section1_left a {
+    padding: 20px 15px;
+    font-family: "Poppins";
+    font-size: 13px;
+  }
+  .select {
+    bottom: 76%;
+    left: -12px;
+    position: absolute;
+    font-size: 10px;
+    padding: 5px 5px 5px 5px;
+  }
+  .swiper-slide img {
+    object-fit: contain;
+  }
+
+  .section3_div1 {
+    width: 70%;
+  }
+  .section1_left h2 {
+    font-size: 24px;
+  }
+  .section2 h2 {
+    font-size: 30px;
+  }
+  .section1s h3,
+  .counter {
+    font-size: 52px;
+  }
+  .section1s h4 {
+    font-size: 14px;
+  }
+  .swiper-slide_content p {
+    margin: 9px 52px 76px 15.5px;
+    font-size: 12px;
+  }
+  .swiper-slide_content h4 {
+    font-size: 14px;
+  }
+  .mySwiper .my_slide {
+    height: 300px;
+  }
+  .swiper-slide img {
+    display: block;
+    object-fit: contain;
+  }
+  .swiper-button-prev:after {
+    margin: 300px 0px 330px -10px;
+    padding: 5.5px 10.1px 5.6px 10.5px;
+    border-radius: 20px;
+    border: solid 2px #b4b4b4;
+    font-size: 16px;
+  }
+  .swiper-button-next:after {
+    margin: 300px 0px 310px 13px;
+    padding: 5.5px 10.1px 5.6px 10.5px;
+    border-radius: 20px;
+    border: solid 2px #b4b4b4;
+    font-size: 15px;
+  }
+  .section3_div1 h4 {
+    font-family: "Poppins";
+    font-size: 24px;
+  }
+
+  .section3_div2_one_text {
+    position: absolute;
+    top: 35%;
+    font-size: 20px;
+    font-weight: 600;
+  }
+  .s6_div2_contentBox {
+    margin: 15px 0;
+  }
+  .section10_right_div2_1 {
+    width: 60%;
+  }
+  .section3_div2_one1_text {
+    position: absolute;
+    top: 85%;
+    font-size: 16px;
+    font-weight: 600;
+    margin-left: 20px;
+  }
+  .section3_div2_one_text {
+    font-size: 16px;
+    font-weight: 600;
+  }
+  .my_slide2_text2 img {
+    width: 66px;
+    height: 66px;
+  }
+  .my_slide2 p {
+    margin: 15px 0 15px;
+  }
+  .section5_right h4,
+  .section7_right h4 {
+    font-size: 18px;
+  }
+  .section5_right h2 {
+    font-size: 35px;
+  }
+  .section3_div1 h2 {
+    font-size: 42px;
+  }
+  .section3_div2_one1_tex.btn_box,
+  .section3_div2_one_text {
+    font-size: 15px;
+  }
+
+  .section4_left h2 {
+    font-size: 42px;
+  }
+  .section7_right h2 {
+    font-size: 30px;
+    line-height: 1.3;
+  }
+  .section5_right p {
+    font-size: 15px;
+  }
+  .section7_right p {
+    font-size: 14px;
+    width: 340px;
+  }
+  .section6_div1 h2 {
+    margin: 15px 10px 30px 10px;
+    font-family: "SofiaPro";
+    font-size: 36px;
+  }
+  .section8 h2 {
+    font-size: 60px;
+  }
+  .section9_div2 {
+    width: 95%;
+  }
+  .section9_div2 h2 {
+    font-size: 34px;
+  }
+  .section10_right_div1 h3 {
+    padding: 100px 70px 60px;
+    font-size: 50px;
+  }
+  .section10_right_div1 {
+    background-size: contain;
+    height: 50vh;
+  }
+  .section10_right_div1 {
+    background-size: cover;
+    height: 50vh;
+  }
+
+  .section9_div2 {
+    width: 95%;
+  }
+  .section9_div2_text {
+    width: 80%;
+  }
+  .section9_div2 h2 {
+    width: 40%;
+  }
+  .main_footer .footer_slogan {
+    width: 55%;
+  }
+  .footer_menu > li {
+    text-align: center;
+    padding: 0 10px;
+  }
+  .footerBot_menu > li a {
+    font-weight: 500;
+    line-height: 3.45;
+    font-size: 12px;
+    padding: 0 10px;
+  }
+  .footer_menu > li a {
+    font-size: 11px;
+  }
+  .footerBot_menu {
+    gap: 0;
+  }
+  .main_footer .footer_bottom .copyright {
+    font-size: 14px;
+  }
+  /* composite  Page*/
+  .section9_div2_composite h4 {
+    font-size: 14px;
+  }
+
+  /* Emergnecy Page */
+  .section1_left_composite h3,
+  .section1_left_composite h4 {
+    font-size: 14px;
+  }
+  .section5_right h2,
+  .section4_left h2,
+  .section2_right_composite h2,
+  .section7_right h2 {
+    font-size: 24px;
+  }
+  .emergnecy_before p {
+    font-size: 12px;
+    margin: 20px 25px 10px 0;
+  }
+  .section1s_compositeP p {
+    width: 65%;
+    font-size: 11px;
+  }
+  .section7_right_div1_1 p,
+  .section5_right p,
+  .s2_emergency_div1 p,
+  .section4_left p,
+  .label_1 label,
+  .label_2 label,
+  .section7_right p,
+  .section7_right_div1_text p,
+  .section7_right_div1_text span,
+  .section2_div1_para_emergency {
+    font-size: 11px;
+  }
+  .icon1 {
+    width: 25px;
+    height: 25px;
+    margin: 10px 15px 7px 0;
+    padding: 5px;
+  }
+  .s2_emergency_div1 {
+    width: 40%;
+    padding: 50px 40px 56.9px 60px;
+  }
+  .label_1 p,
+  .label_2 p {
+    font-size: 11px;
+  }
+  .section1_right_emergency {
+    height: 70vh;
+  }
+  /* Invisalign Page Code  */
+  .section2_div1_invisalign img {
+    width: 50%;
+    height: unset;
+  }
+  .section9_composite {
+    height: unset;
+  }
+  .section9_div2_composite h2 {
+    font-size: 36px;
+  }
+  .section9_div2_composite h4::before {
+    top: 100px;
+    margin-bottom: 35px;
+  }
+  .section1_composite {
+    margin: 22px 30px 30px 30px;
+    padding: 20px 25px 20px 10px;
+  }
+  .section1_left_composite p {
+    font-size: 12px;
+    margin: 23px 10px 50px;
+  }
+  .section2_div1_invisalign h2 {
+    font-size: 36px;
+  }
+  .section2_div1_invisalign p {
+    font-size: 11px;
+    margin: 25px auto;
+    width: 50%;
+  }
+  .section7_right_div1_2 ul li {
+    font-size: 11px;
+  }
+  .section3_invisalign {
+    height: 60vh;
+  }
+  .section3_right_p1_rightBorder {
+    width: 90px;
+    height: 90px;
+  }
+  .section3_right_p1_rightBorder::before {
+    padding: 45px 40px;
+  }
+  .vedio_icons {
+    font-size: 28px;
+  }
+  .main_section_invisalign {
+    position: absolute;
+    width: 124px;
+    height: 125px;
+  }
+  .section7_right_div1_1 span {
+    font-size: 13px;
+  }
+  .section9_div2_composite h4 {
+    font-size: 13px;
+  }
+  .section9_div2_composite h4::before {
+    top: 100px;
+    margin-bottom: 35px;
+  }
+  .section9_div2 h2 {
+    width: 34%;
+  }
+  /* New Patients Page Code */
+
+  .label_1 input {
+    margin: 10px 3px 25px 0;
+  }
+
+  .label_3_copy button {
+    padding: 13px 17px;
+  }
+  /* Teeth Page Code */
+  .my_slide3 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .my_slide3 h2 {
+    margin-top: 20px;
+    font-size: 32px;
+    width: 95%;
+    margin: 0 auto;
+  }
+  .swiper-slide_content p {
+    margin: 10px 52px 15px 15.5px;
+  }
+  .swiper-slide .my_slide3 img {
+    display: block;
+    width: 90%;
+    height: inherit;
+    margin: 0 auto;
+  }
+
+  .Slidercontent_teeth p:last-child {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 10px 52px 15px 15.5px;
+    font-family: "Poppins";
+  }
+  /* Children Page Code  */
+  .section5_invisalign {
+    width: 96%;
+  }
+  .section2_div1_children h2 {
+    font-size: 24px;
+  }
+
+  .one {
+    width: 46%;
+    height: 290px;
+  }
+  .one h5 {
+    font-size: 11px;
+    text-align: left;
+  }
+  /* About Us Page */
+  .section2_div2_about_div1 {
+    width: 48%;
+    position: relative;
+    margin: 30px auto;
+  }
+  .section1_left_about a {
+    margin: 10px 0;
+    padding: 15px 15px;
+  }
+}
+
+/* Screen Size 768  & 620px*/
+@media (max-width: 768px) {
+  .section0 {
+    width: 21%;
+    padding: 16px;
+    font-size: 8px;
+  }
+  .logo1 {
+    display: none;
+  }
+  .top_header_right {
+    display: none;
+  }
+  .standard {
+    padding: 20px 0 20px;
+  }
+  .top_header_left::before {
+    display: none;
+  }
+  .logo {
+    display: flex;
+    width: 100%;
+    justify-content: center;
+  }
+  .btn_red,
+  .btn_yellow {
+    width: 50px;
+  }
+  .section7_right h2 {
+    font-size: 42px;
+  }
+  .main_menu_right {
+    width: 30%;
+  }
+  .btn_red span,
+  .btn_yellow span {
+    display: none;
+  }
+  .btn_yellow li img,
+  .btn_red li img {
+    width: 20px;
+    height: 20px;
+    margin: -5px;
+    vertical-align: middle;
+  }
+  ul .main_menu_left li select,
+  ul .main_menu_left li select option {
+    width: 150px;
+  }
+  .main_menu_left {
+    width: 40%;
+  }
+  .main_menu_left li a img {
+    width: 45px;
+    height: 45px;
+  }
+  ul .main_menu_left li,
+  ul .main_menu_right li {
+    margin: 0 0px;
+  }
+  .section3_div1 {
+    width: 90%;
+  }
+  .select {
+    bottom: 78%;
+    left: -9px;
+    position: absolute;
+    font-size: 16px;
+    padding: 6px 15px 6px 15px;
+  }
+
+  .section1_div1 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .section1_left {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+    margin-top: 50px;
+  }
+  .section1_left h2 {
+    font-size: 32px;
+  }
+  .section1_left p {
+    width: 51%;
+    text-align: center;
+  }
+  .section1_left h2 {
+    font-size: 32px;
+  }
+  .section1_right {
+    width: 100%;
+    /* height: 600px; */
+  }
+  .section1_left a {
+    padding: 12px 10px;
+  }
+  .section1s {
+    width: 100%;
+    display: flex;
+    justify-content: space-evenly;
+    flex-wrap: wrap;
+    padding: 0;
+  }
+  .section2 h2 {
+    font-size: 26px;
+  }
+  .section1s h3,
+  .counter {
+    font-size: 42px;
+  }
+  .section1s h4 {
+    font-size: 11px;
+  }
+  .section2_div1_para {
+    font-size: 12px;
+    width: 69%;
+    text-align: center;
+  }
+  .section2_div1_para {
+    font-size: 14px;
+    width: 69%;
+  }
+  .section2_div1_para {
+    font-size: 14px;
+    width: 69%;
+  }
+  .swiper-slide img {
+    margin-left: 0;
+    height: auto;
+  }
+  /* .mybulltes1 .swiper-pagination.mybulltes1.swiper-pagination-clickable.swiper-pagination-bullets.swiper-pagination-horizontal{
+    margin-bottom: 20px;
+  } */
+  .section3_div2_one1_text {
+    position: absolute;
+    top: 85%;
+    font-size: 14px;
+    margin-left: 8px;
+  }
+  /* .swiper-horizontal > .swiper-pagination-bullets,
+  .swiper-pagination-bullets.swiper-pagination-horizontal,
+  .swiper-pagination-custom,
+  .swiper-pagination-fraction {
+    margin-bottom: 0px;
+  } */
+
+  .section4 {
+    width: 90%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .section4_left {
+    width: 100%;
+    justify-content: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    margin: 0 auto;
+  }
+  .section4_left h2 {
+    font-size: 36px;
+    width: 100%;
+    text-align: center;
+  }
+  .section4_left p {
+    font-size: 13px;
+    width: 80%;
+    margin: 15px 0px 15px 0;
+    text-align: center;
+  }
+  .section4_right {
+    width: 100%;
+  }
+  .section4_left h2 {
+    margin: 30px 0 10px;
+  }
+
+  .mySwiper .swiper-wrapper {
+    width: 80%;
+    justify-content: space-between;
+    margin: 0 auto;
+  }
+  .section3_div2_one1_text .section3_div2_one_text {
+    font-size: 14px;
+    margin-left: 15px;
+  }
+  .section5 {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .section5_left {
+    width: 100%;
+    display: flex;
+    justify-content: center;
+  }
+  .section5_left img {
+    width: 90%;
+  }
+  .section5_right {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+  }
+  .section5_right h4 {
+    font-size: 20px;
+    margin-top: 30px;
+  }
+  .section5_right h2 {
+    font-size: 25px;
+  }
+  .section5_right p {
+    font-size: 13px;
+    width: 90%;
+    margin-bottom: 0;
+    text-align: center;
+  }
+  .section5_right a {
+    padding: 8px 16px;
+    margin-top: 30px;
+  }
+  .section6 {
+    margin-bottom: 20px;
+  }
+  .section6_div1 h2 {
+    font-size: 30px;
+  }
+  .section7_right {
+    width: 100%;
+  }
+  .section7_right h2 {
+    font-size: 26px;
+    line-height: 1.4;
+    text-align: left;
+    width: 90%;
+    margin: 0 auto;
+    margin-bottom: 20px;
+  }
+  .section7_right p {
+    font-size: 13px;
+    width: 90%;
+    text-align: left;
+    margin: 0 auto;
+  }
+  .section7_right_div1 {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: flex-start;
+    width: 90%;
+    margin: 15px auto;
+  }
+  .section7_left {
+    width: 95%;
+    margin: 0 auto;
+    position: relative;
+  }
+
+  .section8 {
+    background-size: cover;
+    height: inherit;
+  }
+  .section8 input,
+  .section8 select {
+    width: 80%;
+    text-align: left;
+  }
+  .section8 h2 {
+    font-size: 52px;
+    margin: 20px 0;
+  }
+  .btns {
+    margin: 30px 186.6px 30px 190px;
+    padding: 10px 30.4px 10px 30px;
+    border-radius: 30px;
+    border: none;
+  }
+  .section9_div2 h2 {
+    font-size: 24px;
+    margin: 0 0 30px;
+  }
+  .section9_div2 a {
+    padding: 10px 15px;
+    font-size: 14px;
+  }
+  .section10_main {
+    width: 100%;
+    flex-wrap: wrap;
+  }
+  .section10_right,
+  .section10_left {
+    width: 90%;
+    margin: 0 auto;
+  }
+  .section10_right_div1 {
+    background-size: cover;
+    height: 50vh;
+  }
+  .section10_right_div2 {
+    margin: 40px 0;
+  }
+  .section10_right_div1 h3 {
+    padding: 100px 110px 60px;
+    font-size: 60px;
+  }
+
+  .section5_right h4::before {
+    top: 26px;
+    left: 166px;
+    width: 50%;
+  }
+  /* Footer */
+
+  .footer_menu {
+    display: none;
+  }
+  .footer_slogan {
+    width: 60%;
+  }
+  .main_footer .footer_slogan p {
+    font-weight: 600;
+    color: #111;
+    font-size: 12px;
+  }
+  .main_footer .btn_box a.purp_btn {
+    padding: 0.5rem 1rem 0.5rem 1rem;
+    font-size: 11px;
+  }
+  .footerBot_menu {
+    display: none;
+  }
+  .footer_call {
+    display: block;
+  }
+  .main_footer .footer_bottom .copyright_design {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    width: 70%;
+  }
+  .main_footer {
+    padding-top: 1rem;
+  }
+  .standard {
+    padding: 10px 0 10px;
+  }
+  .imedia .design_develop {
+    font-size: 14px;
+  }
+  .main_footer .footer_bottom .copyright {
+    font-size: 14px;
+  }
+
+  /* Composite Page Code */
+  .section2_composite {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .section2_right_composite {
+    width: 95%;
+  }
+  .section1_div1_composite {
+    flex-wrap: wrap;
+  }
+  .section1_left_composite,
+  .section1_right_composite {
+    width: 80%;
+    position: relative;
+  }
+  .section1s_compositeP p {
+    font-size: 13px;
+    width: 85%;
+    text-align: left;
+  }
+
+  .section9_composite {
+    width: 85%;
+    margin: 0 auto;
+    background: url(../webImage/19.webp) no-repeat;
+    background-size: contain;
+    background-position: center left;
+    height: auto;
+    margin-bottom: 35px;
+  }
+  .section9_div2_composite h2 {
+    font-size: 30px;
+  }
+  .section9_div2_composite h4 {
+    font-size: 12px;
+  }
+  .section9_div2_text_composite {
+    width: 35%;
+  }
+
+  .section9_div2_composite a {
+    padding: 12px 15px;
+  }
+  .section9_div2_composite h4::before {
+    top: 85px;
+  }
+  .section1_composite {
+    width: 100%;
+    margin: 40px 0;
+  }
+  /* Emergnecy Page Code */
+  .section3_emergency {
+    width: 100%;
+    position: relative;
+    margin: 25px 42px 40px 50px;
+  }
+  .label_3 button,
+  .form_btn {
+    padding: 20px 18px;
+    margin-top: 25px;
+  }
+  .section4_emergency,
+  .section5_emergency {
+    display: flex;
+    flex-wrap: wrap;
+    /* width: 100%; */
+  }
+  .section4_left a {
+    padding: 8px 15px;
+  }
+  .label_emergency p {
+    font-size: 13px;
+    width: 70%;
+  }
+  .tab_emergency p {
+    font-size: 12px;
+    width: 100%;
+    text-align: left;
+  }
+  .section1s_emergency {
+    width: 90%;
+  }
+  .section1_left_composite h4 {
+    font-size: 14px;
+    width: 50%;
+  }
+  .section1_right_emergency {
+    height: 70vh;
+    width: 100%;
+  }
+  /* Invisalign Page code  */
+  .section1_right_invisalign {
+    width: 90%;
+    height: 75vh;
+  }
+  .section2_div1_invisalign h2 {
+    font-size: 30px;
+  }
+  .section3_invisalign {
+    height: 50vh;
+  }
+  .section7_right h2 {
+    font-size: 22px;
+  }
+  .section7_right p {
+    font-size: 11px;
+  }
+
+  .section9_div2_composite h2 {
+    font-size: 26px;
+  }
+  .section9_div2_composite a,
+  .section9_div2 a,
+  .section1_left_composite a {
+    padding: 10px 15px;
+  }
+  .section3_right_p1_rightBorder {
+    background: transparent;
+    width: 75px;
+    height: 75px;
+  }
+  .section3_right_p1_rightBorder::before {
+    padding: 15px 20px;
+  }
+  .main_section_invisalign {
+    position: absolute;
+    width: 100px;
+    height: 100px;
+  }
+  .section5_invisalign {
+    display: flex;
+    flex-wrap: wrap;
+    margin-top: 50px;
+  }
+  .section9_div2 {
+    width: 100%;
+    height: unset;
+  }
+  .section1_right_patients {
+    width: 95%;
+  }
+  /* Veneer PAge Code */
+
+  .section1_right_veneers {
+    width: 85%;
+    height: 70vh;
+  }
+  /* teeth Page COde */
+  .teeth h2 {
+    font-size: 48px;
+  }
+  .teeth h3 {
+    font-size: 20px;
+  }
+  .section1_right_whitening {
+    width: 95%;
+  }
+  .my_slide3 {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .my_slide3 h2 {
+    margin-top: 20px;
+    font-size: 32px;
+    width: 95%;
+    margin: 0 auto;
+  }
+  .swiper-slide_content p {
+    margin: 10px 52px 15px 15.5px;
+  }
+  .swiper-slide .my_slide3 img {
+    display: block;
+    width: 90%;
+    height: inherit;
+    margin: 0 auto;
+  }
+
+  .Slidercontent_teeth p:last-child {
+    font-size: 12px;
+    font-weight: 600;
+    margin: 10px 52px 15px 15.5px;
+    font-family: "Poppins";
+  }
+  /* Children Dentistry */
+  .section1_right_children {
+    width: 95%;
+  }
+  .one {
+    width: 90%;
+    height: 270px;
+    display: flex;
+  }
+  .one h5 {
+    font-size: 16px;
+    text-align: left;
+  }
+  /* Abouts US Page */
+  .section1_left_about h2 {
+    font-size: 24px;
+  }
+  .section1_left_about h4 {
+    font-size: 14px;
+  }
+  .section1_left_about p {
+    width: 100%;
+    font-size: 14px;
+  }
+  .section2_div1 h4::before {
+    width: 65%;
+    height: 40px;
+    left: 17%;
+    top: 5%;
+  }
+  .slider_Aboutcontent button {
+    padding: 15px 20px;
+    font-size: 14px;
+  }
+  .slider_Aboutcontent p {
+    font-size: 13px;
+  }
+  /* Teams Page Code */
+  .team_details h6 {
+    font-family: "Poppins";
+    font-size: 18px;
+    text-align: left;
+  }
+  .section1_right_emergency {
+    height: 100vh;
+    width: 100%;
+  }
+}
+
+@media (max-width: 620px) {
+  .section0 {
+    width: 27%;
+    padding: 11px;
+    font-size: 7px;
+    top: 65%;
+  }
+
+  .btn_red,
+  .btn_yellow {
+    width: 40px;
+    height: 40px;
+  }
+  .btn_yellow li img,
+  .btn_red li img {
+    width: 18px;
+    height: 20px;
+    margin: -5px -9px;
+    vertical-align: text-top;
+  }
+  .main_menu_right {
+    width: 25%;
+  }
+  .main_menu_left {
+    width: 45%;
+  }
+  ul .main_menu_left li select,
+  ul .main_menu_left li select option {
+    width: 125px;
+    padding: 0px 10.2px 0px 10px;
+    font-size: 12px;
+  }
+  ul .main_menu_left li,
+  ul .main_menu_right li {
+    margin: 0 0px;
+  }
+  .main_menu_left li a img {
+    width: 40px;
+    height: 45px;
+    margin-left: 20px;
+  }
+
+  .section1_left h2 {
+    width: 60%;
+    margin: 10px auto;
+    font-size: 30px;
+    text-align: center;
+  }
+  .section1_left p {
+    width: 45%;
+    text-align: center;
+    font-size: 16px;
+    margin-bottom: 25px;
+  }
+  .section1_left a {
+    font-size: 11px;
+    padding: 9px 8px;
+  }
+  .select {
+    bottom: 73%;
+    font-size: 13px;
+    padding: 5px 6px 5px 6px;
+  }
+  .swiper-slide img {
+    margin-left: 0;
+    height: inherit;
+  }
+  .section1s {
+    width: 50%;
+    position: relative;
+    display: flex;
+    justify-content: space-between;
+  }
+  /* New Salaman */
+  .section2 h2 {
+    font-size: 20px;
+  }
+
+  .mySwiper0 .swiper {
+    width: 100%;
+    height: 600px;
+  }
+  .mybulltes1 .swiper-pagination {
+    position: absolute;
+    text-align: center;
+    transition: 0.3s opacity;
+    transform: translate3d(0, 0, 0);
+    z-index: 10;
+    top: 320px;
+    left: 45%;
+  }
+  .section7_left img {
+    margin-top: 20px;
+  }
+  /*  */
+  .swiper-slide.myslide_1.swiper-slide-active {
+    width: inherit;
+  }
+  .swiper-slide_content h4 {
+    font-size: 13px;
+  }
+  .section2_div1_para {
+    font-size: 13px;
+    width: 82%;
+  }
+  .section3_div1 h2 {
+    width: 100%;
+    font-size: 32px;
+  }
+  .section3_div1 h4 {
+    font-family: "Poppins";
+    font-size: 18px;
+  }
+  .section3_div2_one_text {
+    width: 30%;
+    font-size: 12px;
+    margin: 0 auto;
+    text-align: center;
+  }
+  .section3_div2_one1_text {
+    position: absolute;
+    top: 81%;
+    font-size: 12px;
+    margin: 0 auto;
+    width: 30%;
+    text-align: center;
+  }
+  .section4_left h2 {
+    font-size: 36px;
+    margin: 30px 0 10px;
+  }
+  .section4_left a {
+    padding: 5px 10px;
+    font-size: 13px;
+  }
+  .my_slide2 p {
+    font-size: 11px;
+    margin: 15px 0 15px;
+  }
+  /* .mybulltes2, .swiper-pagination.bulltes.mybulltes2.swiper-pagination-bullets.swiper-pagination-horizontal {
+  margin-bottom: -380px;
+} */
+  .section5_right h2 {
+    font-size: 18px;
+    width: 100%;
+    text-align: center;
+  }
+  .section5_right a {
+    font-size: 13px;
+    padding: 5px 10px;
+    margin-top: 30px;
+  }
+  .section6_div1 h2 {
+    font-size: 22px;
+    margin: 15px 10px 0px 10px;
+  }
+  .section6_div1 h4 {
+    font-size: 28px;
+  }
+  .label p {
+    font-size: 12px;
+    font-family: "Poppins";
+    font-weight: 600;
+    line-height: 1.8;
+    letter-spacing: normal;
+    margin: 0px 10px 0px 0px;
+  }
+  .content p {
+    margin: 19px 0.4px 0 0;
+    font-family: "Poppins";
+    font-size: 10px;
+  }
+  .section7_right h2 {
+    font-size: 24px;
+  }
+  .section7_right p {
+    font-size: 12px;
+    width: 90%;
+  }
+  .section8 h2 {
+    font-size: 32px;
+    margin-top: 20px;
+  }
+  .section8 input,
+  .section8 select {
+    width: 70%;
+    font-size: 16px;
+    text-align: left;
+  }
+  .btns {
+    width: 120px;
+    height: 40px;
+    margin: 20px 180.6px 20px 190px;
+    padding: 0px 20px 0px 20px;
+    border-radius: 40px;
+    border: none;
+    font-size: 11px;
+  }
+  .section9_div2_text {
+    width: 75%;
+  }
+  .section9_div2 h2 {
+    font-size: 20px;
+    margin: 0 0 30px;
+  }
+  .section9_div2 a {
+    padding: 7px 8px;
+    font-size: 11px;
+  }
+  .section7_right_div1_1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .section10_right_div2_1 p {
+    font-size: 13px;
+  }
+  .section10_right_div1 h3 {
+    padding: 130px 85px 60px;
+    font-size: 52px;
+  }
+  .section10_right_div1 {
+    background-size: cover;
+    height: 55vh;
+  }
+  .section10_right_div2 {
+    margin: 15px 0;
+  }
+  /* Salman 8 */
+  .section9_div2 {
+    background-size: contain;
+    width: 95%;
+    height: auto;
+  }
+  .section6_div1 h4::before {
+    content: "";
+    position: absolute;
+    top: 8px;
+    left: 39%;
+    min-width: 80px;
+    max-width: 125px;
+  }
+  .section5_right h4::before {
+    content: "";
+    position: absolute;
+    top: 30px;
+    left: 55px;
+    width: 75%;
+  }
+  /* Foooter */
+  .main_footer .innerFooter .footer_logo img {
+    width: 25%;
+  }
+  .footer_menu {
+    display: none;
+  }
+  .main_footer .footer_slogan {
+    width: 65%;
+  }
+  .footer_call {
+    display: block;
+  }
+  .main_footer .footer_slogan p {
+    font-size: 10px;
+  }
+  .main_footer .btn_box {
+    text-align: center;
+    margin-top: 2rem;
+  }
+  .footer_menu,
+  .footerBot_menu {
+    display: none;
+  }
+  .main_footer {
+    padding: 0;
+  }
+  .main_footer .footer_bottom {
+    padding: 1rem;
+  }
+  /* composite Page Code */
+  .section9_div2_composite h2 {
+    font-size: 18px;
+  }
+  .section9_div2_composite h4 {
+    font-size: 10px;
+    margin-top: -50px;
+    margin-bottom: 20px;
+  }
+  .section9_div2_composite h4::before {
+    top: 60px;
+    height: 25px;
+  }
+  .section9_div2_composite a {
+    padding: 7px 8px;
+    font-size: 11px;
+  }
+  .section9_composite {
+    height: auto;
+  }
+  .section9_div2_text_composite {
+    width: 45%;
+  }
+  /* Emergency Page Code */
+  .section1_right_emergency {
+    height: 50vh;
+    width: 100%;
+  }
+  .emergnecy_before p {
+    font-size: 11px;
+    margin: 20px 5px 10px 0;
+  }
+  .section1_left_composite h4 {
+    font-size: 12px;
+    width: 60%;
+  }
+  .section1_left_composite h2,
+  .section5_right h2,
+  .section4_left h2,
+  .section2_right_composite h2,
+  .section7_right h2 {
+    font-size: 26px;
+  }
+  .section1s_compositeP p {
+    font-size: 11px;
+    width: 90%;
+  }
+  .section1s_emergency {
+    width: 95%;
+    margin: 20px auto;
+    padding: 40px 35px;
+  }
+  .section5_right p {
+    font-size: 11px;
+    width: 70%;
+    text-align: left;
+  }
+  .tab_emergency p {
+    font-size: 12px;
+    width: 100%;
+    text-align: left;
+  }
+  .section2_div1_para_emergency {
+    font-size: 11px;
+    width: 65%;
+  }
+  .s2_emergency_div1 {
+    width: 40%;
+    padding: 50px 30px 56.9px 12px;
+  }
+  .s2_emergency_Iconimage {
+    width: 70px;
+    height: 70px;
+    margin: 0 auto;
+    border-radius: 30px;
+  }
+  .s2_emergency_div1 {
+    width: 45%;
+    min-height: 235px;
+    margin: 30px auto;
+  }
+  .radio_em {
+    width: 24px;
+    height: 24px;
+    margin: 39px 5px 37px 0;
+  }
+  .label_3 button,
+  .form_btn {
+    padding: 15px 10px;
+    margin-top: 25px;
+  }
+  .section4_left p {
+    font-size: 11px;
+    width: 66%;
+  }
+
+  /* Invisalign Page Code */
+  .section1_left_composite p {
+    font-size: 11px;
+    margin: 23px 10px 32px;
+  }
+  .section2_div1_invisalign h2 {
+    font-size: 26px;
+  }
+  .section3_right_p1_rightBorder {
+    background: transparent;
+    width: 60px;
+    height: 60px;
+  }
+  .section3_right_p1_rightBorder::before {
+    padding: 9px 20px;
+  }
+  .main_section_invisalign {
+    position: absolute;
+    width: 80px;
+    height: 80px;
+  }
+  .section5_invisalign {
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .section1_left_composite h2,
+  .section5_right h2,
+  .section4_left h2,
+  .section2_right_composite h2,
+  .section7_right h2 {
+    font-size: 24px;
+  }
+  .section7_right p {
+    font-size: 11px;
+    width: 90%;
+  }
+  .section9_div2 {
+    width: 100%;
+    height: unset;
+  }
+  .section9_div2 h2 {
+    font-size: 18px;
+    margin: 0 0 30px;
+  }
+
+  /* New Patients Page Code */
+
+  .label_1 input {
+    margin: 10px 3px 25px 0;
+  }
+  .input_checkbox {
+    width: 100%;
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .label_1 {
+    width: 100%;
+  }
+  .label_3_copy button {
+    padding: 13px 17px;
+  }
+  /*Veneer Page Code  */
+  .section1_right_veneers {
+    width: 90%;
+    height: 60vh;
+  }
+  /* Teeth Page Code */
+  .my_slide3 h2 {
+    font-size: 20px;
+    width: 95%;
+    margin: 5px auto;
+  }
+  .swiper-slide_content p {
+    font-size: 10px;
+    margin: 10px 52px 15px 15.5px;
+  }
+  .Slidercontent_teeth p:last-child {
+    font-size: 10px;
+  }
+  .one {
+    width: 90%;
+    height: 230px;
+    display: flex;
+  }
+  .slider_Aboutcontent p {
+    font-size: 13px;
+  }
+  .slider_Aboutcontent button {
+    padding: 15px 20px;
+    font-size: 12px;
+  }
+  /* Teams Page Code */
+  .team_details h6 {
+    font-family: "Poppins";
+    font-size: 16px;
+    text-align: left;
+  }
+  .section1_right_emergency {
+    height: 100vh;
+    width: 100%;
+  }
+  /* Teams Page Code */
+  .section7_right h2 {
+    font-size: 48px;
+  }
+}
+/* Screen Size 420 to 319 */
+@media (max-width: 420px) {
+  .section0 {
+    width: 30%;
+    padding: 8px;
+    font-size: 8px;
+    top: 65%;
+    left: 81%;
+  }
+  .btn_red,
+  .btn_yellow {
+    width: 30px;
+    height: 30px;
+    margin-left: 5px;
+  }
+  .btn_yellow li img,
+  .btn_red li img {
+    width: 12px;
+    height: 13px;
+    margin: -5px -8px;
+    display: flex;
+  }
+  .main_menu_right {
+    width: 30%;
+  }
+
+  ul .main_menu_left li select,
+  ul .main_menu_left li select option {
+    width: 85px;
+    padding: 0px 5px 0px 6px;
+    font-size: 9px;
+    height: 45px;
+  }
+  .main_menu_left li a img {
+    width: 35px;
+    height: 40px;
+    margin-left: 30px;
+  }
+  .section1_left h2 {
+    width: 70%;
+    margin: 10px auto;
+    font-size: 30px;
+  }
+  .section1_left p {
+    width: 69%;
+    text-align: center;
+    font-size: 14px;
+  }
+  .section1_left a {
+    font-size: 10px;
+    padding: 9px 6px;
+  }
+  .section1s {
+    width: 64%;
+  }
+  .section2 h2 {
+    font-size: 14px;
+  }
+  .section2_div1_para {
+    font-size: 11px;
+    width: 90%;
+  }
+  .section2 {
+    width: 95%;
+  }
+  .swiper-slide_content h4 {
+    font-size: 10px;
+  }
+  .swiper-slide_content p {
+    font-size: 11px;
+  }
+  .swiper-slide_content h6 a {
+    font-size: 12px;
+  }
+  .section3_div1 h2 {
+    width: 100%;
+    font-size: 22px;
+    margin: 15px 14px 15px;
+  }
+  .section3_div2_one_text {
+    width: 30%;
+    font-size: 11px;
+    top: 34%;
+  }
+  .section3_div2_one1_text {
+    position: absolute;
+    top: 76%;
+    font-size: 10px;
+  }
+  .section4_left h2 {
+    font-size: 26px;
+    margin: 15px 0 10px;
+  }
+  .section4_left a {
+    padding: 3px 6px;
+    font-size: 11px;
+  }
+  .my_slide2_text1 {
+    color: #ca1857;
+    font-size: 12px;
+  }
+  .my_slide2 p {
+    font-size: 10px;
+    margin: 15px 0 15px;
+  }
+  .section5_right h2 {
+    font-size: 14px;
+  }
+  .section5_right h4 {
+    font-size: 16px;
+    margin-top: 30px;
+  }
+  .section5_right p {
+    font-size: 11px;
+  }
+  .section5_right a {
+    font-size: 11px;
+    padding: 2px 6px;
+  }
+
+  .section6_div1 h4 {
+    font-size: 20px;
+  }
+  .section6_div1 h2 {
+    font-size: 15px;
+    margin: 15px 10px 0px 10px;
+  }
+  .label p {
+    font-size: 11px;
+  }
+  fa-add:before,
+  .fa-plus:before {
+    font-size: 14px;
+    content: "\2b";
+  }
+  .section7_right h2 {
+    font-size: 17px;
+    line-height: 1.5;
+  }
+  .section7_right p {
+    font-size: 11px;
+    width: 90%;
+  }
+  .fa-check:before {
+    content: "\f00c";
+    font-size: 12px;
+  }
+  .section8 h2 {
+    font-size: 22px;
+    margin-top: 20px;
+  }
+  .section8 input,
+  .section8 select {
+    width: 70%;
+    font-size: 11px;
+    text-align: left;
+  }
+  .section9_div2 h2 {
+    font-size: 18px;
+    margin: 0 0 30px;
+  }
+  .section10_right_div1 h3 {
+    padding: 140px 65px 68px;
+    font-size: 35px;
+  }
+  .section10_right_div2_1 p {
+    font-size: 11px;
+  }
+  .section9_div2 {
+    width: 96%;
+    background-size: contain;
+    height: 50vh;
+    margin: 0 auto;
+  }
+  .section9_div2 h2 {
+    font-size: 16px;
+  }
+
+  .main_footer .footer_slogan {
+    width: 90%;
+  }
+  .main_footer .btn_box {
+    text-align: center;
+    /* margin-top: 1.5rem !important; */
+    /* padding: 1.5rem 0;*/
+  }
+  .main_footer .footer_bottom .copyright {
+    font-size: 13px;
+  }
+  .imedia .design_develop {
+    font-size: 13px;
+  }
+  .select {
+    width: 112px;
+    bottom: 69%;
+    font-size: 10px;
+    padding: 1px 0px 1px 0px;
+  }
+  .swiper-button-prev:after {
+    margin: 300px 0px 300px -14px;
+    padding: 5.5px 7.1px 5.6px 7.5px;
+    border-radius: 10px;
+    border: solid 2px #b4b4b4;
+    font-size: 12px;
+  }
+  .swiper-button-next:after {
+    margin: 300px 0px 300px 17px;
+    padding: 5.5px 7.1px 5.6px 7.5px;
+    border-radius: 10px;
+    border: solid 2px #b4b4b4;
+    font-size: 12px;
+  }
+
+  .section1_div1 h4::before {
+    content: "";
+    position: absolute;
+    top: 5px;
+    left: 8%;
+    width: 82%;
+  }
+  .section3_div1 h4 {
+    font-family: "Poppins";
+    font-size: 12px;
+  }
+  .section3_div1 h4::before {
+    content: "";
+    position: absolute;
+    top: -8px;
+    left: 23px;
+    width: 83%;
+  }
+  .section5_right h4::before {
+    content: "";
+    position: absolute;
+    top: 30px;
+    left: 29px;
+    width: 82%;
+  }
+  .section6_div1 h4::before {
+    content: "";
+    position: absolute;
+    top: 3px;
+    left: 40%;
+    max-width: 90px;
+    min-width: 60px;
+    border-top-left-radius: 50%;
+    border-top-right-radius: 50%;
+    height: 28px;
+  }
+
+  /* composite Page Code */
+
+  .section1_left_composite h2 {
+    font-size: 32px;
+  }
+  .section2_right_composite h2 {
+    font-size: 28px;
+  }
+  .section9_div2_composite h2 {
+    font-size: 18px;
+    margin: 0px 1px 60px;
+  }
+  .section9_div2_composite h4 {
+    margin-bottom: 25px;
+  }
+  .section9_div2_text_composite {
+    width: 60%;
+  }
+  .section9_div2_composite h4::before {
+    top: 55px;
+    height: 30px;
+  }
+  .section9_div2_composite a {
+    padding: 7px 8px;
+    font-size: 10px;
+  }
+  .section1s_compositeP p {
+    font-size: 12px;
+    width: 90%;
+  }
+  .section9_composite {
+    height: auto;
+  }
+  .section1_composite {
+    padding: 15px 0px 0px 15px;
+  }
+  /* Emergency */
+  .s2_emergency_div1 {
+    width: 45%;
+    min-height: 200px;
+    margin: 30px auto;
+    text-align: center;
+  }
+  .section7_right_div1_1 p,
+  .section5_right p,
+  .s2_emergency_div1 p,
+  .section4_left p,
+  .label_1 label,
+  .label_2 label,
+  .section7_right p,
+  .section7_right_div1_text p,
+  .section7_right_div1_text span,
+  .section2_div1_para_emergency {
+    font-size: 10px;
+  }
+  .section4_left h2 {
+    font-size: 20px;
+    margin: 15px 0 10px;
+  }
+  .section1_left_composite h2,
+  .section5_right h2,
+  .section4_left h2,
+  .section2_right_composite h2,
+  .section7_right h2,
+  .section2 h2 {
+    font-size: 20px;
+  }
+  .section1_left_composite h4::before {
+    height: 25px;
+  }
+  .section1_left_composite h3,
+  .section1_left_composite h4 {
+    font-size: 10px;
+  }
+  .section1s_emergency {
+    width: 100%;
+    margin: 20px auto;
+    padding: 40px 15px;
+  }
+  .s2_emergency_Iconimage {
+    width: 55px;
+    height: 55px;
+    margin: 0 auto;
+    border-radius: 30px;
+  }
+  .label_1 {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: flex-start;
+    font-size: 16px;
+    font-family: "Poppins";
+  }
+  /* Invisalign  Page Code*/
+  .section1_left_composite p {
+    font-size: 10px;
+    margin: 20px 0px 30px;
+  }
+  .section1_right_invisalign {
+    width: 90%;
+    height: 52vh;
+  }
+  .section2_div1_invisalign h2 {
+    font-size: 24px;
+  }
+  .section2_div1_invisalign p {
+    font-size: 10px;
+    margin: 25px auto;
+    width: 75%;
+  }
+  .section7_right_div1_2 ul li {
+    font-size: 10px;
+  }
+  .section3_right_p1_rightBorder {
+    background: transparent;
+    width: 40px;
+    height: 40px;
+    top: 65px;
+  }
+  .vedio_icons {
+    font-size: 18px;
+  }
+  .main_section_invisalign {
+    position: absolute;
+    width: 55px;
+    height: 55px;
+  }
+  .section3_invisalign {
+    height: unset;
+  }
+  .section7_right {
+    width: 100%;
+    margin-top: 60px;
+  }
+  .section9_div2_composite .placeholder_div {
+    width: 65%;
+    position: relative;
+  }
+  .section9_div2_text {
+    width: 90%;
+  }
+  .section9_div2 {
+    height: unset;
+  }
+  /* Veneer PAge Code */
+  .section1_right_veneers {
+    width: 90%;
+    height: 50vh;
+  }
+  /* Teeth Page Code */
+  .my_slide3 h2 {
+    font-size: 15px;
+    width: 95%;
+    margin: 5px auto;
+  }
+  .swiper-slide_content p {
+    font-size: 10px;
+    margin: 12px 0px 15px 1.5px;
+  }
+  .Slidercontent_teeth p:last-child {
+    font-size: 10px;
+    font-weight: 600;
+    margin: 10px 0px 15px 1.5px;
+    font-family: "Poppins";
+  }
+  /* Children Page */
+  .one {
+    width: 90%;
+    height: 200px;
+    display: flex;
+  }
+  /* Abouts Us Page */
+  .section2_div2_about_div1 {
+    width: 95%;
+    text-align: center;
+  }
+  .section2_div1 h2 {
+    margin: 10px 0px 15px 0px;
+    font-family: "SofiaPro";
+    font-size: 48px;
+  }
+  .section2_div1 h4 {
+    font-family: "Poppins";
+    font-size: 28px;
+  }
+
+  .slider_Aboutcontent p {
+    font-size: 11px;
+  }
+  .section1_left_about p {
+    width: 100%;
+    font-size: 12px;
+  }
+  .slider_Aboutcontent button {
+    padding: 15px 20px;
+    font-size: 11px;
+  }
+  /* Teams Page Code */
+  .section9_div2_composite a,
+  .section9_div2 a,
+  .section1_left_composite a {
+    padding: 7px 10px;
+  }
+  .section7_right h2 {
+    font-size: 48px;
+  }
+}
